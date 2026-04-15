@@ -17,7 +17,7 @@
                 </div>
 
                 <h1 class="text-2xl sm:text-3xl md:text-4xl font-bold title-font text-white tracking-tight drop-shadow-lg">
-                    FacilityHub
+                    FacilityHu
                 </h1>
                 <p class="mt-2 sm:mt-3 text-white/90 text-sm sm:text-base font-medium">
                     Satu Langkah Menuju Fasilitas yang Lebih Nyaman
